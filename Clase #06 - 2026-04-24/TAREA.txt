@@ -1,0 +1,25 @@
+RESOLVER EN DIAGRAMA y EN CODIGO
+
+EJERCICIO 1
+
+Hacer un programa que permita ingresar de una lista de 10 empleados el sueldo y la modalidad de trabajo:
+
+1. Full-Time
+2. Part-Time
+
+Determinar:
+
+a) La cantidad de trabajadores Part-time con sueldos mayores a $750000.
+
+b) El sueldo promedio de los trabajadores Full-Time.
+
+c) Qué modalidad tiene más trabajadores que ganan más de un millón de pesos. (Se debe mostrar Full-Time o Part-Time)
+
+NOTA: Asumir que alguna de las dos modalidades tendrá más trabajadores que ganan más de un millón de pesos que la otra.
+
+
+EJERCICIO 2
+
+Hacer un programa donde se ingresa una lista de numeros enteros que finaliza cuando se ingresa el tercer numero par.
+
+Mostrar el promedio de los numeros pares.
